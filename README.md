@@ -1,2 +1,2 @@
-# 3dm
+# 3DM
 Digital Data Death Manifesto 
