@@ -1,4 +1,4 @@
-# 3DM
+# 3dm
 Digital Data Death Manifesto 
 
 ---
