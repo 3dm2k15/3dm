@@ -3,7 +3,7 @@ Digital Data Death Manifesto
 
 ---
 
-### Manifesto
+## Manifesto
 
 1) 
 Provide the **tools** for the people to take control of their Data Post Mortem.
@@ -23,7 +23,7 @@ What happens to our data when we die?
 
 Where does it end up? Who does it belong to and how is it used?
 
-##### 3dm is an open movement that aims to contextualize and allow you to regain control of the data that we generate, by providing you with the initial tools to start that process.
+### 3dm is an open movement that aims to contextualize and allow you to regain control of the data that we generate, by providing you with the initial tools to start that process.
 
 
 We encourage you to contribute and edit relevant tools and information to the movement’s online platform in line with the movements manifesto ethos. Feel free to circulate and distribute as you see fit.
